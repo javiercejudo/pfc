@@ -2,6 +2,8 @@
 !.gitignore
 *~
 config.php
+*-converted-to.pdf
+node_modules
 
 # OS generated files #
 ######################

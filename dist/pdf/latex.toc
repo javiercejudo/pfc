@@ -1,0 +1,106 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{9}{chapter.1}
+\contentsline {section}{\numberline {1.1}Antecedentes}{11}{section.1.1}
+\contentsline {section}{\numberline {1.2}Motivaci\IeC {\'o}n}{12}{section.1.2}
+\contentsline {section}{\numberline {1.3}Necesidad del proyecto}{13}{section.1.3}
+\contentsline {section}{\numberline {1.4}Acotaci\IeC {\'o}n}{17}{section.1.4}
+\contentsline {chapter}{\numberline {2}Descripci\IeC {\'o}n general del proyecto}{19}{chapter.2}
+\contentsline {section}{\numberline {2.1}Prop\IeC {\'o}sito del proyecto}{20}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Contexto}{20}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Objetivo general}{20}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}El cliente y otros interesados}{20}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}El cliente}{20}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Otros interesados}{20}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Los usuarios del producto}{21}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Usuarios finales}{21}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Prioridades asignadas a los usuarios}{21}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Tecnolog\IeC {\'\i }as a utilizar}{21}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Alternativas de implementaci\IeC {\'o}n}{22}{subsection.2.4.1}
+\contentsline {section}{\numberline {2.5}Hechos relevantes y asunciones}{23}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Hechos}{23}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Asunciones}{23}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}Aspectos relativos a los usuarios dentro del sistema}{24}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Usuario b\IeC {\'a}sico}{24}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Administrador}{24}{subsection.2.6.2}
+\contentsline {chapter}{\numberline {3}Calendario}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}Direcci\IeC {\'o}n del proyecto}{28}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Comunicaci\IeC {\'o}n con el cliente}{28}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Comunicaci\IeC {\'o}n con el tutor}{29}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}M\IeC {\'o}dulo de personal}{29}{section.3.2}
+\contentsline {section}{\numberline {3.3}M\IeC {\'o}dulo de actividades}{30}{section.3.3}
+\contentsline {section}{\numberline {3.4}M\IeC {\'o}dulo de gesti\IeC {\'o}n de horas e integraci\IeC {\'o}n}{31}{section.3.4}
+\contentsline {section}{\numberline {3.5}Buscador global}{31}{section.3.5}
+\contentsline {section}{\numberline {3.6}\IeC {\'U}ltima recodificaci\IeC {\'o}n}{31}{section.3.6}
+\contentsline {section}{\numberline {3.7}Memoria y defensa}{32}{section.3.7}
+\contentsline {chapter}{\numberline {4}An\IeC {\'a}lisis}{33}{chapter.4}
+\contentsline {section}{\numberline {4.1}Especificaci\IeC {\'o}n de los requisitos del sistema}{34}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Requisitos de interfaces de usuario}{34}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Requisitos funcionales}{35}{subsection.4.1.2}
+\contentsline {subsubsection}{Requisitos funcionales de la gesti\IeC {\'o}n de personal}{35}{section*.5}
+\contentsline {subsubsection}{Requisitos funcionales de la gesti\IeC {\'o}n de actividades}{37}{section*.6}
+\contentsline {subsubsection}{Requisitos funcionales de la consulta de datos e informes}{38}{section*.7}
+\contentsline {subsubsection}{Requisitos funcionales de la gesti\IeC {\'o}n de horas}{40}{section*.8}
+\contentsline {subsubsection}{Requisitos funcionales de la b\IeC {\'u}squeda}{42}{section*.9}
+\contentsline {section}{\numberline {4.2}Requisitos l\IeC {\'o}gicos de la base de datos}{44}{section.4.2}
+\contentsline {section}{\numberline {4.3}Casos de uso}{45}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Gestor de personal}{46}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Gestor de actividades}{53}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Gestor de horas e informes}{58}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Protecci\IeC {\'o}n de datos}{66}{section.4.4}
+\contentsline {chapter}{\numberline {5}Dise\IeC {\~n}o}{67}{chapter.5}
+\contentsline {section}{\numberline {5.1}Dise\IeC {\~n}o de la interfaz de usuario}{68}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Generalidades}{68}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Formularios}{70}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Tablas}{71}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Ventanas emergentes}{74}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}Buscador global}{75}{subsection.5.1.5}
+\contentsline {section}{\numberline {5.2}Dise\IeC {\~n}o de la base de datos}{77}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Diagrama Entidad/Relaci\IeC {\'o}n}{79}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Entidades y atributos}{79}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Relaciones}{88}{subsection.5.2.3}
+\contentsline {section}{\numberline {5.3}Dise\IeC {\~n}o del sistema}{88}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Diagramas de secuencia}{89}{subsection.5.3.1}
+\contentsline {chapter}{\numberline {6}Implementaci\IeC {\'o}n}{97}{chapter.6}
+\contentsline {section}{\numberline {6.1}Tecnolog\IeC {\'\i }as}{98}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Lenguajes}{98}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Ajax}{99}{subsection.6.1.2}
+\contentsline {section}{\numberline {6.2}Librer\IeC {\'\i }as}{101}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Sorttable}{101}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}PHPExcel}{102}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}JQuery}{103}{subsection.6.2.3}
+\contentsline {section}{\numberline {6.3}Detalles de la implementaci\IeC {\'o}n. Algoritmos representativos}{104}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Distribuci\IeC {\'o}n de horas por mes}{104}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Horas ocupadas de un empleado en un mes}{108}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Buscador}{110}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Sobre la implementaci\IeC {\'o}n de la base de datos}{112}{subsection.6.3.4}
+\contentsline {chapter}{\numberline {7}Pruebas}{113}{chapter.7}
+\contentsline {section}{\numberline {7.1}Prueba de distribuci\IeC {\'o}n de horas y \textit {bug} horario}{115}{section.7.1}
+\contentsline {chapter}{\numberline {8}Consideraciones y conclusiones}{119}{chapter.8}
+\contentsline {section}{\numberline {8.1}Conocimientos adquiridos}{120}{section.8.1}
+\contentsline {section}{\numberline {8.2}Algunos datos interesantes}{120}{section.8.2}
+\contentsline {section}{\numberline {8.3}Futuro del proyecto}{121}{section.8.3}
+\contentsline {section}{\numberline {8.4}Labores del proyectante en otras partes de la aplicaci\IeC {\'o}n}{121}{section.8.4}
+\contentsline {chapter}{\numberline {A}Script del test de distribuci\IeC {\'o}n de horas}{129}{appendix.Alph1}
+\contentsline {chapter}{\numberline {B}Declaraci\IeC {\'o}n del cliente}{135}{appendix.Alph2}
+\contentsline {chapter}{\numberline {C}Manual de usuario}{137}{appendix.Alph3}
+\contentsline {section}{\numberline {C.1}Gesti\IeC {\'o}n de personal}{138}{section.Alph3.1}
+\contentsline {subsection}{\numberline {C.1.1}B\IeC {\'u}squeda de personal}{139}{subsection.Alph3.1.1}
+\contentsline {subsection}{\numberline {C.1.2}Creaci\IeC {\'o}n de un nuevo empleado y de sus datos anuales}{140}{subsection.Alph3.1.2}
+\contentsline {subsection}{\numberline {C.1.3}Modificaci\IeC {\'o}n de un empleado y de sus datos anuales}{143}{subsection.Alph3.1.3}
+\contentsline {subsection}{\numberline {C.1.4}Eliminaci\IeC {\'o}n de un empleado y de sus datos anuales}{144}{subsection.Alph3.1.4}
+\contentsline {section}{\numberline {C.2}Gesti\IeC {\'o}n de actividades}{147}{section.Alph3.2}
+\contentsline {subsection}{\numberline {C.2.1}B\IeC {\'u}squeda de proyectos/actividades}{147}{subsection.Alph3.2.1}
+\contentsline {subsection}{\numberline {C.2.2}Creaci\IeC {\'o}n de una nueva actividad}{149}{subsection.Alph3.2.2}
+\contentsline {subsection}{\numberline {C.2.3}Modificaci\IeC {\'o}n de una actividad}{149}{subsection.Alph3.2.3}
+\contentsline {subsection}{\numberline {C.2.4}Eliminaci\IeC {\'o}n de una actividad}{151}{subsection.Alph3.2.4}
+\contentsline {section}{\numberline {C.3}Consulta de datos e informes}{151}{section.Alph3.3}
+\contentsline {subsection}{\numberline {C.3.1}Consulta de datos por personal}{153}{subsection.Alph3.3.1}
+\contentsline {subsection}{\numberline {C.3.2}Consulta de datos por proyecto}{154}{subsection.Alph3.3.2}
+\contentsline {subsection}{\numberline {C.3.3}Resumen global}{157}{subsection.Alph3.3.3}
+\contentsline {section}{\numberline {C.4}Gesti\IeC {\'o}n de horas}{158}{section.Alph3.4}
+\contentsline {subsection}{\numberline {C.4.1}Asignaci\IeC {\'o}n de horas}{158}{subsection.Alph3.4.1}
+\contentsline {subsection}{\numberline {C.4.2}Modificaci\IeC {\'o}n de horas asignadas}{163}{subsection.Alph3.4.2}
+\contentsline {subsection}{\numberline {C.4.3}Detecci\IeC {\'o}n de errores}{164}{subsection.Alph3.4.3}
+\contentsline {subsection}{\numberline {C.4.4}Eliminaci\IeC {\'o}n de horas asignadas}{164}{subsection.Alph3.4.4}
+\contentsline {section}{\numberline {C.5}Buscador global}{165}{section.Alph3.5}
+\contentsline {chapter}{\numberline {D}Software utilizado}{171}{appendix.Alph4}

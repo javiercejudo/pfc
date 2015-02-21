@@ -1,0 +1,98 @@
+\select@language {spanish}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Hoja de c\IeC {\'a}lculo con el registro de horas asignadas.}}{13}{figure.1.1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Arquitectura hardware de la empresa.}}{22}{figure.2.1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Diagrama de Gantt.}}{32}{figure.3.1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Importancia de las dimensiones de usabilidad.}}{35}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Enlaces de inter\IeC {\'e}s desde el buscador de Google.}}{45}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Diagrama de casos de uso para los recursos.}}{46}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Diagrama de casos de uso para las actividades.}}{54}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Diagrama de casos de uso para las gesti\IeC {\'o}n de horas.}}{59}{figure.4.5}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Detalle del filtro de personal.}}{69}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Selecci\IeC {\'o}n de cliente mediante caja de selecci\IeC {\'o}n.}}{70}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Sugerencias de aeropuerto en un portal de vuelos.}}{71}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Formulario existente (izq.) frente a formulario nuevo (dcha.).}}{72}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Varias tablas de la herramienta.}}{73}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Detalle de fila activa en una tabla.}}{74}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Tabla antigua.}}{75}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Ejemplo de lightbox en Google Docs.}}{76}{figure.5.8}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Buscador global.}}{76}{figure.5.9}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Detalle de un resultado.}}{77}{figure.5.10}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Buscador cargando (izq.) y estado normal (dcha.)}}{78}{figure.5.11}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Diagrama E--R}}{80}{figure.5.12}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Diagrama de secuencia: creaci\IeC {\'o}n de actividad.}}{90}{figure.5.13}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Diagrama de secuencia: creaci\IeC {\'o}n de actividad con repetici\IeC {\'o}n.}}{90}{figure.5.14}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Diagrama de secuencia: modificaci\IeC {\'o}n de actividad.}}{91}{figure.5.15}
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Diagrama de secuencia: eliminaci\IeC {\'o}n de actividad.}}{91}{figure.5.16}
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Diagrama de secuencia: b\IeC {\'u}squeda de recurso.}}{92}{figure.5.17}
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Diagrama de secuencia: creaci\IeC {\'o}n de recurso.}}{92}{figure.5.18}
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Diagrama de secuencia: creaci\IeC {\'o}n de recurso incompleta.}}{93}{figure.5.19}
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Diagrama de secuencia: modificaci\IeC {\'o}n de recurso.}}{93}{figure.5.20}
+\contentsline {figure}{\numberline {5.21}{\ignorespaces Diagrama de secuencia: eliminaci\IeC {\'o}n de recurso.}}{94}{figure.5.21}
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Diagrama de secuencia: creaci\IeC {\'o}n de registro anual.}}{94}{figure.5.22}
+\contentsline {figure}{\numberline {5.23}{\ignorespaces Diagrama de secuencia: modificaci\IeC {\'o}n de registro anual.}}{95}{figure.5.23}
+\contentsline {figure}{\numberline {5.24}{\ignorespaces Diagrama de secuencia: eliminaci\IeC {\'o}n de registro anual.}}{95}{figure.5.24}
+\contentsline {figure}{\numberline {5.25}{\ignorespaces Diagrama de secuencia: asignaci\IeC {\'o}n de horas.}}{96}{figure.5.25}
+\contentsline {figure}{\numberline {5.26}{\ignorespaces Diagrama de secuencia: asignaci\IeC {\'o}n de horas con inconsistencias.}}{96}{figure.5.26}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Funcionamiento de Ajax.}}{100}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Ejemplo de hoja de c\IeC {\'a}lculo compleja.}}{103}{figure.6.2}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Vista de calendario del gestor del tiempo.}}{123}{figure.8.1}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Detalle de las tareas del calendario.}}{124}{figure.8.2}
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Estad\IeC {\'\i }sticas de tareas.}}{125}{figure.8.3}
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Sistema de sugerencias.}}{125}{figure.8.4}
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Gestor de archivos.}}{126}{figure.8.5}
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Facturaci\IeC {\'o}n comparada mensual (arriba) y acumulada.}}{126}{figure.8.6}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Enlace al m\IeC {\'o}dulo de personal en el men\IeC {\'u}.}}{138}{figure.Alph3.1}
+\contentsline {figure}{\numberline {C.2}{\ignorespaces Filtro de personal.}}{139}{figure.Alph3.2}
+\contentsline {figure}{\numberline {C.3}{\ignorespaces Sugerencias de cliente.}}{140}{figure.Alph3.3}
+\contentsline {figure}{\numberline {C.4}{\ignorespaces Enlace para a\IeC {\~n}adir personal.}}{141}{figure.Alph3.4}
+\contentsline {figure}{\numberline {C.5}{\ignorespaces Creaci\IeC {\'o}n de nuevo personal.}}{142}{figure.Alph3.5}
+\contentsline {figure}{\numberline {C.6}{\ignorespaces Creaci\IeC {\'o}n de datos anuales.}}{142}{figure.Alph3.6}
+\contentsline {figure}{\numberline {C.7}{\ignorespaces Enlaces para a\IeC {\~n}adir datos anuales.}}{143}{figure.Alph3.7}
+\contentsline {figure}{\numberline {C.8}{\ignorespaces Enlace para modificar los datos de un empleado.}}{144}{figure.Alph3.8}
+\contentsline {figure}{\numberline {C.9}{\ignorespaces Formulario de modificaci\IeC {\'o}n de empleados.}}{145}{figure.Alph3.9}
+\contentsline {figure}{\numberline {C.10}{\ignorespaces Enlace para modificar datos anuales.}}{145}{figure.Alph3.10}
+\contentsline {figure}{\numberline {C.11}{\ignorespaces Formulario de modificaci\IeC {\'o}n de empleados.}}{146}{figure.Alph3.11}
+\contentsline {figure}{\numberline {C.12}{\ignorespaces Enlace para borrar los datos de un empleado.}}{146}{figure.Alph3.12}
+\contentsline {figure}{\numberline {C.13}{\ignorespaces Enlace para borrar datos anuales.}}{146}{figure.Alph3.13}
+\contentsline {figure}{\numberline {C.14}{\ignorespaces Enlace al m\IeC {\'o}dulo de actividades en el men\IeC {\'u}.}}{147}{figure.Alph3.14}
+\contentsline {figure}{\numberline {C.15}{\ignorespaces Filtro de actividades.}}{148}{figure.Alph3.15}
+\contentsline {figure}{\numberline {C.16}{\ignorespaces Sugerencias de proyecto.}}{149}{figure.Alph3.16}
+\contentsline {figure}{\numberline {C.17}{\ignorespaces Enlaces para a\IeC {\~n}adir actividades.}}{150}{figure.Alph3.17}
+\contentsline {figure}{\numberline {C.18}{\ignorespaces Creaci\IeC {\'o}n de nueva actividad.}}{150}{figure.Alph3.18}
+\contentsline {figure}{\numberline {C.19}{\ignorespaces Enlace para modificar los datos de una actividad.}}{151}{figure.Alph3.19}
+\contentsline {figure}{\numberline {C.20}{\ignorespaces Formulario de modificaci\IeC {\'o}n de empleados.}}{152}{figure.Alph3.20}
+\contentsline {figure}{\numberline {C.21}{\ignorespaces Enlace para borrar una actividad.}}{152}{figure.Alph3.21}
+\contentsline {figure}{\numberline {C.22}{\ignorespaces Horas asignadas a un empleado concreto en 2010 y 2011.}}{153}{figure.Alph3.22}
+\contentsline {figure}{\numberline {C.23}{\ignorespaces Desglose mensual de horas para un recurso concreto.}}{154}{figure.Alph3.23}
+\contentsline {figure}{\numberline {C.24}{\ignorespaces Desglose general por actividades.}}{155}{figure.Alph3.24}
+\contentsline {figure}{\numberline {C.25}{\ignorespaces Resumen de horas por a\IeC {\~n}o.}}{155}{figure.Alph3.25}
+\contentsline {figure}{\numberline {C.26}{\ignorespaces Resumen de horas por a\IeC {\~n}o.}}{155}{figure.Alph3.26}
+\contentsline {figure}{\numberline {C.27}{\ignorespaces Enlace a las hojas de c\IeC {\'a}lculo.}}{156}{figure.Alph3.27}
+\contentsline {figure}{\numberline {C.28}{\ignorespaces Hoja de c\IeC {\'a}lculo por proyecto, personal, actividades y meses.}}{156}{figure.Alph3.28}
+\contentsline {figure}{\numberline {C.29}{\ignorespaces Enlaces al resumen desde Proyectos (izq.) y personal (dcha.).}}{157}{figure.Alph3.29}
+\contentsline {figure}{\numberline {C.30}{\ignorespaces Resumen de horas asignadas a proyectos.}}{158}{figure.Alph3.30}
+\contentsline {figure}{\numberline {C.31}{\ignorespaces Vista de desglose mensual por actividades.}}{159}{figure.Alph3.31}
+\contentsline {figure}{\numberline {C.32}{\ignorespaces Resumen global en hoja de c\IeC {\'a}lculo.}}{159}{figure.Alph3.32}
+\contentsline {figure}{\numberline {C.33}{\ignorespaces Enlace para imputar horas a una actividad.}}{160}{figure.Alph3.33}
+\contentsline {figure}{\numberline {C.34}{\ignorespaces Formulario de asignaci\IeC {\'o}n de horas a actividad.}}{161}{figure.Alph3.34}
+\contentsline {figure}{\numberline {C.35}{\ignorespaces Botones de traslaci\IeC {\'o}n de horas.}}{162}{figure.Alph3.35}
+\contentsline {figure}{\numberline {C.36}{\ignorespaces Modificaci\IeC {\'o}n de horas mensuales.}}{163}{figure.Alph3.36}
+\contentsline {figure}{\numberline {C.37}{\ignorespaces Detecci\IeC {\'o}n de errores en la asignaci\IeC {\'o}n.}}{164}{figure.Alph3.37}
+\contentsline {figure}{\numberline {C.38}{\ignorespaces Detalle de los errores con enlace de horas sobrantes.}}{165}{figure.Alph3.38}
+\contentsline {figure}{\numberline {C.39}{\ignorespaces Buscador con ejemplos de uso.}}{166}{figure.Alph3.39}
+\contentsline {figure}{\numberline {C.40}{\ignorespaces Posici\IeC {\'o}n del buscador en el men\IeC {\'u} superior.}}{166}{figure.Alph3.40}
+\contentsline {figure}{\numberline {C.41}{\ignorespaces Elementos principales de una b\IeC {\'u}squeda.}}{168}{figure.Alph3.41}
+\contentsline {figure}{\numberline {C.42}{\ignorespaces Men\IeC {\'u} de ayuda del buscador.}}{168}{figure.Alph3.42}
+\contentsline {figure}{\numberline {C.43}{\ignorespaces B\IeC {\'u}squeda de elementos cercanos.}}{169}{figure.Alph3.43}
+\addvspace {10\p@ }
